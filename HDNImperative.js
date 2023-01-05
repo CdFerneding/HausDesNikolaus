@@ -26,6 +26,7 @@ function main(){
     console.log(`path with starting point = ${start}:`);
     let result = toString(findPath(edges, start));
     console.log(result);
+    console.log("Hello World!");
 }
 
 /**
